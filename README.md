@@ -1,5 +1,6 @@
 Research Project 
 Techniques to be used 
 Regression
-Fuzzy logic
 Neural network
+ARIMA(Autoregressive integrated moving average)
+Fuzzy time series forecasting
